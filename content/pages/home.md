@@ -3,11 +3,10 @@ title: Tina Cloud Starter
 blocks:
   - headline: Can't get Images to Work
     text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from components/blocks, and puts them
-      all together in `pages/[filename].tsx`, all based on a config
-      `tina/config.tsx`.
+      This project is set up to the basics of working with Tina. You're looking
+      at the landing page, which pulls content from `content/pages/home.md`,
+      components from components/blocks, and puts them all together in
+      `pages/[filename].tsx`, all based on a config `tina/config.tsx`.
     actions:
       - label: Get Started
         type: button
