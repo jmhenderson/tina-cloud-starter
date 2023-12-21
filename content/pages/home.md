@@ -21,7 +21,7 @@ blocks:
       alt: >-
         Photo of palm trees at sunset by Adam Birkett -
         unsplash.com/photos/75EFpyXu3Wg
-    color: default
+    color: tint
     _template: hero
   - items:
       - icon:
