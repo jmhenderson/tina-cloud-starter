@@ -15,9 +15,9 @@ blocks:
         title: Monday
         text: Monday Details
       - icon:
-          name: ''
-          color: ''
-          style: float
+          name: BiBus
+          color: yellow
+          style: circle
         title: Tuesday
         text: Daily activities
       - icon:
