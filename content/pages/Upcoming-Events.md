@@ -1,6 +1,20 @@
 ---
 title: Upcoming Events
 blocks:
+  - tagline: Here's some text above the other text
+    headline: This Big Text is Totally Awesome
+    text: ''
+    image:
+      src: /uploads/unsplash-75EFpyXu3Wg.jpg
+    _template: hero
+  - body: ''
+    _template: content
+  - quote: >-
+      There are only two hard things in Computer Science: cache invalidation and
+      naming things.
+    author: Phil Karlton
+    color: ''
+    _template: testimonial
   - tagline: Stay Informed
     headline: Upcoming Events
     text: ''
