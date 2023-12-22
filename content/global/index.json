@@ -9,8 +9,12 @@
     "color": "default",
     "nav": [
       {
-        "href": "",
+        "href": "home",
         "label": "Home"
+      },
+      {
+        "href": "Upcoming Events",
+        "label": "Upcoming Events"
       },
       {
         "href": "about",
