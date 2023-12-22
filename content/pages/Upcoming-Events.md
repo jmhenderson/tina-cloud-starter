@@ -21,9 +21,9 @@ blocks:
         title: Tuesday
         text: Daily activities
       - icon:
-          name: ''
-          color: ''
-          style: float
+          name: BiBowlingBall
+          color: orange
+          style: circle
         title: Wednesday
         text: Daily activities
       - icon:
