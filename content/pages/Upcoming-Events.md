@@ -34,7 +34,7 @@ blocks:
           style: circle
         title: Wednesday
         text: Daily activities
-    color: primary
+    color: tint
     _template: features
   - items:
       - icon:
