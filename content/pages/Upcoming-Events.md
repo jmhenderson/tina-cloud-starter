@@ -10,7 +10,7 @@ blocks:
         icon: true
         link: /
     image:
-      src: /uploads/pexels-matthias-zomer-344034.jpg
+      src: ''
     color: default
     _template: hero
   - body: ''
