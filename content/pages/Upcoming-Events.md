@@ -3,8 +3,16 @@ title: Upcoming Events
 blocks:
   - tagline: Stay Informed
     headline: Upcoming Events
-    text: |
+    text: >
       ![](/uploads/pexels-matthias-zomer-344034.jpg)
+
+
+      ```html
+
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("public/uploads/llama-4.avif");
+
+      ```
     actions:
       - label: Action Label
         type: button
