@@ -1,9 +1,10 @@
 ---
 title: Upcoming Events
 blocks:
-  - tagline: Here's some text above the other text
-    headline: This Big Text is Totally Awesome
+  - tagline: Stay Informed
+    headline: Upcoming Events
     text: ''
+    color: default
     _template: hero
   - body: ''
     _template: content
