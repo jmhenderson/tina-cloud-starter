@@ -26,6 +26,7 @@ blocks:
           style: circle
         title: Wednesday
         text: Daily activities
+    color: primary
     _template: features
   - items:
       - icon:
@@ -40,6 +41,7 @@ blocks:
           style: circle
         title: Friday
         text: Daily activities
+    color: primary
     _template: features
 ---
 
