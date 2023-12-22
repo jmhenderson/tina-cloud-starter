@@ -35,9 +35,9 @@ blocks:
         title: Thursday
         text: Daily activities
       - icon:
-          name: ''
+          name: BiBaguette
           color: ''
-          style: float
+          style: circle
         title: Here's Another Feature
         text: >-
           This is where you might talk about the feature, if this wasn't just
