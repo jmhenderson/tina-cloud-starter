@@ -27,7 +27,7 @@ blocks:
         title: Wednesday
         text: Daily activities
       - icon:
-          name: ''
+          name: BiTrip
           color: ''
           style: float
         title: Thursday
