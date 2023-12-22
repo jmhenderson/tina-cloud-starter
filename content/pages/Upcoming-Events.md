@@ -3,7 +3,8 @@ title: Upcoming Events
 blocks:
   - tagline: Stay Informed
     headline: Upcoming Events
-    text: ''
+    text: |
+      ![](/uploads/pexels-matthias-zomer-344034.jpg)
     actions:
       - label: Action Label
         type: button
