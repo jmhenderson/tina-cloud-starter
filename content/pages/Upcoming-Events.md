@@ -49,7 +49,7 @@ blocks:
           style: circle
         title: Friday
         text: Daily activities
-    color: primary
+    color: tint
     _template: features
 ---
 
