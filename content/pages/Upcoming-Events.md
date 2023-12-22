@@ -12,7 +12,7 @@ blocks:
         link: /
     image:
       src: ''
-    color: primary
+    color: ''
     _template: hero
   - body: ''
     _template: content
