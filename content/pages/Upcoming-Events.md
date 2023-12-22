@@ -32,6 +32,12 @@ blocks:
           style: float
         title: Thursday
         text: Daily activities
+      - icon:
+          name: ''
+          color: ''
+          style: float
+        title: Friday
+        text: Daily activities
     _template: features
   - items:
       - icon:
