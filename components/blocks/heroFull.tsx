@@ -82,7 +82,7 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
               aria-hidden="true"
             />
             <img
-              className="relative z-10 w-full max-w-xs rounded-lg md:max-w-none h-auto"
+              className="relative z-10 w-full max-w-fit rounded-lg md:max-w-none h-auto"
               alt={data.image.alt}
               src={data.image.src}
             />
