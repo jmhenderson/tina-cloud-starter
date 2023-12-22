@@ -11,7 +11,7 @@ blocks:
         link: /
     image:
       src: ''
-    color: default
+    color: primary
     _template: hero
   - body: ''
     _template: content
