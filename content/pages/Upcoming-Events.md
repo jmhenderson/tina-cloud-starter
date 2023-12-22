@@ -4,6 +4,8 @@ blocks:
   - tagline: Stay Informed
     headline: Upcoming Events
     text: ''
+    image:
+      src: /uploads/pexels-matthias-zomer-344034.jpg
     color: default
     _template: hero
   - body: ''
