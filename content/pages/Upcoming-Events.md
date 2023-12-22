@@ -33,7 +33,7 @@ blocks:
         title: Thursday
         text: Daily activities
       - icon:
-          name: ''
+          name: BiBowlRice
           color: ''
           style: float
         title: Friday
