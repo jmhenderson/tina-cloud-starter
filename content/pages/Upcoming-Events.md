@@ -9,9 +9,9 @@ blocks:
     _template: content
   - items:
       - icon:
-          name: ''
-          color: ''
-          style: float
+          name: BiBall
+          color: blue
+          style: circle
         title: Monday
         text: Monday Details
       - icon:
